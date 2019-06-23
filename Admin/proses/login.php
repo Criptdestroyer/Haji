@@ -6,7 +6,9 @@ if(isset($data['login'])){
     $user = $data['username'];
     $sql = "select * from user where username = '$user' and password='$pass'";
     $query = mysqli_query($db, $sql);
-    print_r($query);
+    while ($row = mysqli_fetch_assoc($query)) {
+        var_dump($row);
+    }
     if($query->num_rows == 1){
         session_start();
         $_SESSION["username"] = $user;

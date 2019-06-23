@@ -1,6 +1,6 @@
 <?php
-$server = "hajiserver.database.windows.net";
-$user = "alfath";
+$server = "hajiserver.mysql.database.azure.com";
+$user = "alfath@hajiserver";
 $password = "EmirG4nteng";
 $nama_database = "haji";
 

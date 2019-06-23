@@ -1,5 +1,5 @@
 <?php
-$server = "tcp:hajiserver.database.windows.net";
+$server = "hajiserver.database.windows.net";
 $user = "alfath";
 $password = "EmirG4nteng";
 $nama_database = "haji";

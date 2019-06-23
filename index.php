@@ -1,2 +1,2 @@
 <?php
-echo "hai";
+header('Location: https://haji.azurewebsites.net/Admin/login.php');

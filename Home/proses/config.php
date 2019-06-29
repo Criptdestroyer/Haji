@@ -1,7 +1,10 @@
 <?php
-$db=mysqli_init();
-mysqli_ssl_set($db, NULL, NULL, NULL, NULL, NULL);
-mysqli_real_connect($db, "haji.mysql.database.azure.com", "adminhaji@haji", "Pweb2019", "haji", 3306);
+$server = "hajimabrur-mysqldbserver.mysql.database.azure.com";
+$user = "mysqldbuser@hajimabrur-mysqldbserver";
+$password = "Pweb2019";
+$nama_database = "haji";
+
+$db = mysqli_connect($server, $user, $password, $nama_database);
 
 if( !$db ){
     die("Gagal terhubung dengan database: " . mysqli_connect_error());

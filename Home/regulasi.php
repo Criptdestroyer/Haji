@@ -23,10 +23,24 @@
         <div class="col justiy content mb-5 pb-3">
           <div class="col-md-40 heading-section ftco-animate text-justify">
             <h2 class="mb-4 text-center">REGULASI</h2> <br>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, eius mollitia suscipit, quisquam doloremque distinctio perferendis et doloribus unde architecto optio laboriosam porro adipisci sapiente officiis nemo accusamus ad praesentium? Esse minima nisi et. Dolore perferendis, enim praesentium omnis, iste doloremque quia officia optio deserunt molestiae voluptates soluta architecto tempora.</p>
-            <p>Molestiae cupiditate inventore animi, maxime sapiente optio, illo est nemo veritatis repellat sunt doloribus nesciunt! Minima laborum magni reiciendis qui voluptate quisquam voluptatem soluta illo eum ullam incidunt rem assumenda eveniet eaque sequi deleniti tenetur dolore amet fugit perspiciatis ipsa, odit. Nesciunt dolor minima esse vero ut ea, repudiandae suscipit!</p> <br><br><br>
-            <h2 class="mb-4 text-center">Hal yang Harus Dipersiapkan wkwkk</h2><br>
-            <p>Temporibus ad error suscipit exercitationem hic molestiae totam obcaecati rerum, eius aut, in. Exercitationem atque quidem tempora maiores ex architecto voluptatum aut officia doloremque. Error dolore voluptas, omnis molestias odio dignissimos culpa ex earum nisi consequatur quos odit quasi repellat qui officiis reiciendis incidunt hic non? Debitis commodi aut, adipisci.</p>
+            <p>Dalam Keputusan Bersama Dua Menteri, yakni Menteri Gama (Menag) dan Menteri Kesehatan (Menkes) Nomor 458 tahun 2000 dan Nomor: 1652.A/MENKES-KESOS/SKB/XI/2000 tentang Calon Haji Wanita Hamil untuk Melaksanakan Ibadah Haji, masih membenarkan wanita hamil untuk melakukan penerbangan yang penerbangannya cukup lama. Lebih rinci, aturan itu menyebutkan calon haji wanita hamil yang diijinkan untuk menunaikan ibadah haji harus memenuhi persyaratan pada saat berangkat dari embarkasi usia kehamilan mencapai sekurang-kurangnya 14 minggu dan sebanyak-banyaknya 26 minggu.</p>
+            <br><br><br>
+            <h2 class="mb-4 text-center">Hal yang Harus Dipersiapkan</h2><br>
+            <p>Pertama, kain ihram. Jangan sampai calhaj ketinggalan benda satu ini. Benda ini menempati posisi penting bagi calhaj. Setiap calhaj disarankan membawa dua stel (4 lembar) kain ihram. Bagi calon haji yang tergolong dalam gelombang dua atau yang langsung menuju Makkah dari Indonesia diharapkan menyiapkan satu setengah stel kain ihram atau tiga lembar kain dengan dimasukkan ke dalam tas kecil, tidak dimasukkan ke dalam koper besar. Ketika bertolak dari bandara, calhaj sudah memakai pakaian ihram lengkap satu stel namun masih boleh ditutupi jaket atau semisalnya. Kemudian nanti jika ada pengumuman dalam pesawat bahwa sudah mulai masuk Yalamlam, jaket dilepaskan. Sedangkan kain ihram yang satu di dalam tas untuk antisipasi jika kain ihram utama terkena najis saat di dalam toilet pesawat.</p>
+
+            <p>Kedua, alat dan perlengkapan makan. Supaya tidak boros dan bingung di mana tempat pembelian alat perlengkapan dan makanan, calon jamaah haji (calhaj) lebih baik membawa benda-benda tersebut dari rumah seperti piring plastik, gelas plastik, sendok makan, bumbu masak kering, jahe wangi, teh celup, gula, mie instant, lauk pauk yang tahan lama seperti kering tempe, abon dan lain sebagainya.</p>
+
+            <p>Ketiga, perlengkapan mandi dan cuci juga perlu disiapkan secara cukup. Alat ini banyak dibutuhkan calhaj saat mau berangkat mulai dari asrama haji hingga pulang sampai rumah lagi, yaitu meliputi sabun mandi, shampo, detergent, pasta gigi dan lain sebagainya.</p>
+
+            <p>Jika mempunyai sisa tempat yang cukup, calhaj bisa membawa handuk yang tidak terlampau besar. Jika keterbatasan tempat, handuk bisa diganti dengan kanebo baru yang khusus digunakan untuk mandi.</p>
+
+            <p>Keempat, obat-obatan dan alat pertolongan pertama pada kecelakaan (P3K). Meskipun sudah ada dokter pendamping jamaah haji, ada baiknya calhaj mempersiapkan kebutuhan obat-obatan pribadi sesuai kebutuhan sehari-hari mulai dari plester, obat batuk, koyo, minyak kayu putih, balsem serta obat khusus dari dokter pribadi bagi penderita penyakit dengan riwayat sakit kronis.</p>
+
+            <p>Kelima, karena di negara Arab Saudi sekarang ini sedang musim panas dengan suhu rata-rata 42 derajat celcius yang berarti jauh lebih panas dari suhu negara Indonesia secara umum yang berkisar maksimal sampai 32 derajat celcius, calhaj perlu membawa payung, topi, kacamata hitam, masker, kaos tangan, semprotan kecil dan sejenisnya untuk menghindari kontraksi, iritasi dan sebagainya.</p>
+
+            <p>Keenam, alat kosmetik. Di luar waktu ihram, calhaj selalu berkumpul dengan orang banyak. Mereka tetap disarankan untuk tampil bersih dan rapi, termasuk memakai parfum bagi calhaj laki-laki. Benda yang perlu dibawa antara lain kaca cermin kecil, sisir, gunting, pencukur jenggot-kumis dan lain-lain.</p>
+
+            <p>Ketujuh, perabot lain yang perlu masukkan ke dalam draf bekal bawaan calhaj antara lain pakaian biasa minimal tiga stel, sprei, sandal jepit minimal tiga pasang, tas plastik, alas yang bisa berupa tikar, perlak atau sejenis, tambang kecil, jaket dan lain-lain</p>
 					</div>
 				</div>
 			</div>
@@ -48,7 +62,7 @@
             <div class="block-18 color-2 align-items-stretch">
               <div class="text">
               	<h3 class="mb-4">Daftar</h3>
-              	<p>Kalian bisa daftar jadi jemaah hehe.</p>
+              	<p>Ayo jadi jemaah haji Indonesia.</p>
               	<p><a href="#daftar" class="btn btn-white px-3 py-2 mt-2">Daftar Sekarang</a></p>
               </div>
             </div>
@@ -71,7 +85,6 @@
       	<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section ftco-animate text-center">
             <h2 class="mb-4">Pendaftar Terbaru</h2>
-            <p>Siapa ya.</p>
           </div>
         </div>
         <div class="row">

@@ -1,7 +1,11 @@
 <?php
+// $server = "fdb26.awardspace.net";
+// $user = "3085597_haji";
+// $password = "adminhaji8";
+// $nama_database = "3085597_haji";
 $db=mysqli_init(); 
-mysqli_ssl_set($con, NULL, NULL, '/var/www/html/haji/BaltimoreCyberTrustRoot.crt.pem', NULL, NULL); 
-mysqli_real_connect($db, "hajiserver.mysql.database.azure.com", "alfath@hajiserver", "EmirG4nteng", "haji", 3306);
-if (mysqli_connect_errno($db)) {
-    die('Failed to connect to MySQL: '.mysqli_connect_error());
+mysqli_real_connect($db, "haji.mysql.database.azure.com", "adminhaji@haji", "Pweb2019","haji", 3306);
+
+if( !$db ){
+    die("Gagal terhubung dengan database: " . mysqli_connect_error());
 }

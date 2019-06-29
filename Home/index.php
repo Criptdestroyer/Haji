@@ -10,8 +10,8 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-7 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
-            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Alhamdulillah Kita Haji Guys</h1>
-            <p class="mb-5" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Created by <a href="#">JJ SPT RDH</a></p>
+            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Selamat Datang di Website Haji Indonesia</h1>
+            <p class="mb-5" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Created by JJ SPT RDH</p>
           </div>
         </div>
       </div>
@@ -59,7 +59,7 @@
               <div class="icon d-flex mb-3"><span class="flaticon-donation"></span></div>
               <div class="media-body pl-4">
                 <h3 class="heading">Infaq</h3>
-                <p>donasi la kuy.</p>
+                <p> Mrilah kita mengeluarkan sebagian dari harta atau pendapatan/penghasilan untuk membantu sesama</p>
               </div>
             </div>    
           </div>
@@ -105,7 +105,6 @@
         <div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section ftco-animate text-center">
             <h2 class="mb-4">Recent from blog</h2>
-            <p>Ini berita terbaru kita guys.</p>
           </div>
         </div>
         <div class="row d-flex">
